@@ -19,7 +19,7 @@ header{
 
 .navone{
     height: 72px;
-    width: 100%;
+    width: 98%;
     margin-inline: auto;
     background-color: #EEF0F2;
     display: flex;
@@ -57,7 +57,6 @@ header{
     padding: 0px 10px;
     margin-left: -5px;
 
-    
 }
 .head_location input{
     height: 40px;
@@ -91,6 +90,9 @@ header{
     border-radius: 4px;
     background-color: #ffffff;
     margin-left: 15px;
+}
+.dead{
+    
 }
 .head_search input{
 

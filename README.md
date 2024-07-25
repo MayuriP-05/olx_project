@@ -1,4 +1,4 @@
-###OLX PROJECT
+###OLX PROJECT:
 
 #This README file provides instructions and information about the OLX Home Page project. The OLX Home Page is a web application designed to serve as the landing page for OLX, an online classifieds marketplace. The home page includes features for browsing, searching, and listing classified ads.
 
